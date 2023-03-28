@@ -8,7 +8,9 @@
 
 <br/>
 
-API URL : <a href="https://api.steinhq.com/v1/storages/64224443d27cdd09f0eb1eac/21a3" target="_blank"> visite</a>
+LINK WEB : <a href="https://list-absen.vercel.app" target="_blank"> https://list-absen.vercel.app</a><br/>
+LINK API : <a href="https://api.steinhq.com/v1/storages/64224443d27cdd09f0eb1eac/21a3" target="_blank"> https://api.steinhq.com/v1/storages/64224443d27cdd09f0eb1eac/21a3</a><br/>
+
 
 <br/>
 
