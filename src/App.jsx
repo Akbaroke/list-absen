@@ -32,8 +32,8 @@ function App() {
           <progress className="progress w-56 bg-gray-500"></progress>
         </div>
       ) : (
-        <div className="overflow-x-auto p-1 bg-[#eaeaea]/20 rounded-lg">
-          <table className="table w-full">
+        <div className="overflow-x-auto p-1 bg-[#eaeaea]/20 rounded-lg w-max m-auto">
+          <table className="table max-w-lg">
             <thead>
               <tr>
                 <th>No.</th>
